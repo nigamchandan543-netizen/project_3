@@ -170,7 +170,7 @@ Step 2
 
 Clone the repository:
 
-git clone https://github.com/yourusername/student-data-organizer.git
+git clone https://github.com/nigamchandan543-netizen/project_3.git)
 
 Step 3
 
