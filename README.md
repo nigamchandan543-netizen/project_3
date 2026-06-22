@@ -1,6 +1,6 @@
-Student Data Organizer (Collection Manipulator)
+#*Student Data Organizer (Collection Manipulator)*
 
-📌 Project Overview
+#📌 Project Overview
 
 Student Data Organizer is a Python-based menu-driven application that manages student records using Python collection data types such as List, Tuple, Set, and Dictionary.
 
@@ -18,6 +18,18 @@ Use of the del keyword
 
 Menu-driven programming
 
+
+## 🔗 Project Links
+
+- 🌐 Live Demo:https:https://drive.google.com/file/d/1mvUkrDcd_8G9XNgWkXM9Q1rMlLZlyv3v/view?usp=drivesdk
+- 📧 Email:nigamchandan543@gmail.com
+
+
+## SOME SREEN SHOT OF THIS CODES 
+<img width="1080" height="529" alt="image" src="https://github.com/user-attachments/assets/cddb1d61-8f26-4e23-9120-bbf95a12de56" />
+<img width="1080" height="511" alt="image" src="https://github.com/user-attachments/assets/b9b3784b-4319-4392-b3c2-65f6d5741edc" />
+<img width="573" height="576" alt="image" src="https://github.com/user-attachments/assets/112011c6-6357-41c5-9d44-38f4e823dcc7" />
+<img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/ef4c3585-1d43-4058-9ecd-7c497b887534" />
 
 
 ---
