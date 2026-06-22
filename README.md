@@ -1,5 +1,4 @@
-##*Student Data Organizer (Collection Manipulator)*
-
+## STUDENT DATA ORGANIZER AND MANUPULATER
 #📌 Project Overview
 
 Student Data Organizer is a Python-based menu-driven application that manages student records using Python collection data types such as List, Tuple, Set, and Dictionary.
